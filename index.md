@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My Website (in progress)
 
 You can use the [editor on GitHub](https://github.com/nboltralik/nboltralik.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
